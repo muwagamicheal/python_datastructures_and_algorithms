@@ -1,7 +1,5 @@
-#n = int(input("Enter the number that i will check if its a multiple of the othet number you will provide be checked"))
 
-#m = int(input("Enter the other number."))
-
+# In this solution we create alist of mulptiples of a given number.
 def is_multiple(n,m):
   item = 1
   multiples = []
@@ -18,4 +16,4 @@ def is_multiple(n,m):
   else:
     print(False, )
 
-is_multiple(2,150)
+is_multiple(2,150) 
