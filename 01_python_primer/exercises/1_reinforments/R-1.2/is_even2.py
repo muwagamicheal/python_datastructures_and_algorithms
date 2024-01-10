@@ -6,6 +6,3 @@ if number == 0:
   print(True,"The number is Even")
 else:
   print(False,"The number is odd")
-
-# Future Improvments 
-  " Include error handling when the user  enters numbers with decimals or charcters "
