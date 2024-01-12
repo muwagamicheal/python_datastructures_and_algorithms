@@ -13,6 +13,6 @@ In this approach we use the while loop subtract two from the number until the nu
 In this appproach we shall use regular expressions to check if the last digit of the number is 0,2,4,6,8 then the numbe is even.
 
 # Improvments:
-  The solution files contain the simplest implelentations, you can extend them as need.
+  The solution files contain the simplest implimentations, you can extend them as need.
   
   1. You can Include error handling when the user  enters numbers with decimals or charcters.
