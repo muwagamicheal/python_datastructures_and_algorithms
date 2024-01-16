@@ -15,3 +15,4 @@ In this appproach we shall use the sort function to organise the items in the se
   
   1. You can Include error handling when the user enters charcters. The programm should check if what has been input is a number, if not prompt the user to enter a number.
   2. You can add code to skip user in put thats not number or "#", the code should inform the user that the input was not stored because its not a number.
+  3. You can reaserch about how to compare the performance of the two medoths used to solve this challenge.
