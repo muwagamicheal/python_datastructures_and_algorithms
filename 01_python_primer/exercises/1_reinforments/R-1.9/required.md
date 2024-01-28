@@ -7,7 +7,7 @@ This assinment requires us to have knowlwdge of the builtin range() in python wo
 It takes three parameters, start, stop, step. 
 The "start" parameter tells function the start value of the output.
 "stop" parameter tells the function the end value of the output
-"step" parameter tell the function the number of values to be skiped when generating the next value.
+"step" parameter tell the function the number of values to be skipped when generating the next value.
 
 NOTE: 
 If the "start" value is not supplied, the default of 1 will be assumed.
