@@ -10,4 +10,7 @@ Consider the string n = Hello with lenght of 5.
 | Postive index  | Character  |Negative index |Equivalent postive index |
 | :------------- | :----------| --------------| ------------------------|
 | 0              | H          |-5             |0+5=5                    |
-|
+| 1              | e          |-4             |1+5=6                    |
+| 2              | l          |-3             |2+5=7                    |
+| 3              | l          |-2             |3+5=8                    |
+| 4              | o          |-1             |4+5=9                    |
