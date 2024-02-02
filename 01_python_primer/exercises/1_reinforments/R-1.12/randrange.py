@@ -5,7 +5,7 @@ random.randrange(start, stop[, step])
 """ 
 from random import randrange
 #generate random number in the range of -100 to 100.
-n = randrange(-10000000,10000000)
+n = randrange(-100,100)
 print(n)
 
 #If you want to generate 5 random values and save in list.
