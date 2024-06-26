@@ -16,5 +16,5 @@ def reverse(sqn1):
   return rev_sqn1
 
 reversed_list = reverse(sqn1)
-print(f'The original list:\n{sqn1}') # Using fstring to dispaly test and varialbles.
+print(f'The original list:\n{sqn1}') # Using fstring to display test and variables.
 print(f'The reversed list:\n{reversed_list}')
