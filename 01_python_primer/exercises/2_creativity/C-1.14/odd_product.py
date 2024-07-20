@@ -25,7 +25,7 @@ def oddProduct(sequence):
             break
         else:
             print("Looking for odd pair")
-            print("Did not find odd pair")
+            #print("Did not find odd pair")
     return print
 
 sequence = generateSequence()
