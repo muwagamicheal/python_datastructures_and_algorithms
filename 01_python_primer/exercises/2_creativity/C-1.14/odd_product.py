@@ -9,6 +9,25 @@ def generateSequence ():
         sqn.append(n)
     return sqn
 
-sequence = generateSequence()
-print(sequence)
+def oddProduct(sequence):
+    for p in range(len(sequence)-1):
+        #product = sequence[p]*(sequence[p+1])
+        value1 = sequence[p]
+        value2 = sequence[p+1]
+        p1 =[p]
+        p2 =[p+1]
+        product = value1*value2
+        print(product)
+        
+        if product%2 != 0:
+            print(f"odd pair found by multiplying values {value1} and {value2} at {p1} and {p2} in the sequence below")
+            #print("Odd pair found")
+            break
+        else:
+            print("Looking for odd pair")
+            print("Did not find odd pair")
+    return print
 
+sequence = generateSequence()
+oddProduct(sequence)
+print(sequence)
